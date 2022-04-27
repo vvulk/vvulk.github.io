@@ -1,0 +1,1 @@
+import{d as r,_ as a}from"./index.95542f14.js";import{W as d}from"./vendor.ef15629f.js";var l=r(({app:e})=>{e.component("Slider",d({loader:()=>a(()=>import("./slider.8cbb4df8.js"),["assets/slider.8cbb4df8.js","assets/vendor.ef15629f.js"]).then(o=>o.default),delay:0,suspensible:!1}))});export{l as default};

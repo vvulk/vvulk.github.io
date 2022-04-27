@@ -1,0 +1,1 @@
+import{a as t}from"./index.95542f14.js";import{e as n,o as e,c as a,F as _,q as p,b as c,x as l}from"./vendor.ef15629f.js";const d=n({props:{darker:{type:Boolean,default:!1}},setup(s){const r=s;return(u,m)=>(e(),a("div",{class:l(["polka-dots",r.darker&&"darker"])},[(e(),a(_,null,p(16,o=>c("span",{key:o})),64))],2))}});var f=t(d,[["__scopeId","data-v-4e253d4e"]]);export{f as _};

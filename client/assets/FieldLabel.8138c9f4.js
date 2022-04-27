@@ -1,0 +1,1 @@
+import{a as t}from"./index.95542f14.js";import{e as o,o as _,c as l,r,d as n,v as p}from"./vendor.ef15629f.js";const c={class:"field-label"},d=o({props:{label:null},setup(e){const a=e;return(s,i)=>(_(),l("span",c,[r(s.$slots,"default",{},()=>[n(p(a.label),1)],!0)]))}});var f=t(d,[["__scopeId","data-v-13e3eda9"]]);export{f as _};
